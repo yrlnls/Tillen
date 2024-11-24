@@ -1,0 +1,17 @@
+To open links in a new tab, you can use the target attribute on the anchor (a) element.
+
+The target attribute specifies where to open the linked document. target="_blank" opens the linked document in a new tab or window.
+<figure></figure> element is used to caption images with text
+<figcaption> element is used to add a caption to an image
+<input> tag is used for filling in data
+<datalist> tag is used to specify a list of pre-defined options for input elements
+<keygen> tag is used to create a key pair for secure authentication
+<progress> tag is used to display the progress of a task
+<canvas> tag is used to draw graphics, on the fly, via scripting
+<video> tag is used to embed video content
+<audio> tag is used to embed audio content
+<embed> tag is used to embed external content
+<object> tag is used to embed external content
+inside input we use attributes to show which data is being taken eg text,passowrds
+Placeholder text is used to give people a hint about what kind of information to enter into an input.
+To prevent a user from submitting your form when required information is missing, you need to add the required attribute to an input element. There's no need to set a value to the required attribute. Instead, just add the word required to the input element, making sure there is space between it and other attributes.
