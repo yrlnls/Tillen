@@ -15,3 +15,7 @@ The target attribute specifies where to open the linked document. target="_blank
 inside input we use attributes to show which data is being taken eg text,passowrds
 Placeholder text is used to give people a hint about what kind of information to enter into an input.
 To prevent a user from submitting your form when required information is missing, you need to add the required attribute to an input element. There's no need to set a value to the required attribute. Instead, just add the word required to the input element, making sure there is space between it and other attributes.
+
+
+
+create a function and it should hold details regarding my hobby use let to declare my local scope{kuna 3 types of scope);have some variables in each scope }
